@@ -42,7 +42,7 @@ public class Login extends javax.swing.JFrame {
     String imgBTN_clicked = "none";
     
 
-
+//free
     
     //geting user id
     String entered_user_name =null;
